@@ -1,4 +1,4 @@
-# hellow
+# Vue CLI
 
 > A Vue.js project
 
